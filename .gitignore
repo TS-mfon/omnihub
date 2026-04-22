@@ -10,3 +10,4 @@ venv/
 .venv/
 *.pyc
 broadcast/
+.vercel
